@@ -18,4 +18,4 @@ Once the file is downloaded, right click on the .zip file and select "extract al
 
 Next, double click on the main application within the folder entitled "CSEC Nexus."
 
-Feedback for improvements/bugs and suggestions for future inclusions and design are always welcome!
+***Feedback for improvements/bugs and suggestions for future inclusions and design are always welcome!***
