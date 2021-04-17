@@ -21,7 +21,7 @@ This project is a proof of concept educational tool to educate and encourage the
  - CSEC NEXUS (Application Folder)
    - ***CSEC Nexus*** *(The Main Application)*
    - data.win *(Game Maker Helper File)*
-   - options.ini *(Application Seettings File)*
+   - options.ini *(Application Settings File)*
  - CSEC Nexus.ppt *(The Presentation)*
  - README.md *(This document)*
 
