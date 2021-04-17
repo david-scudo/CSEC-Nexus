@@ -18,7 +18,8 @@ This project is a proof of concept educational tool to educate and encourage the
 3. Next, double click on the main application within the folder entitled "CSEC Nexus."
 
 **Inside the .zip file you will find:**
- - ***CSEC Nexus*** *(The Main Application)*
+ - CSEC NEXUS (Application Folder)
+   - ***CSEC Nexus*** *(The Main Application)*
    - data.win *(Game Maker Helper File)*
    - options.ini *(Application Seettings File)*
  - CSEC Nexus.ppt *(The Presentation)*
