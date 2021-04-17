@@ -3,6 +3,7 @@
 **Welcome!**
 
 This project is a proof of concept educational tool to educate and encourage the non-techies amung us on cyber security concepts.
+
 ***Feedback for improvements/bugs and suggestions for future inclusions and design are always welcome!***
 
 **Inside the .zip file you will find:**
