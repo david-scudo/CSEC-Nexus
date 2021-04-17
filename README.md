@@ -1,11 +1,18 @@
-# CSEC-Nexus
-MS Project Participant Download
+## CSEC-Nexus Download
 
-Welcome!
+**Welcome!**
 
 This project is a proof of concept educational tool to educate and encourage the non-techies amung us on cyber security concepts.
 
-All you need to do to get started is click the green "code" button and select download .zip from the drop down menu.
+**Above you will find 3 files:**
+ * *CSEC Nexus (the application)*
+ * *CSEC Nexus.ppt (The Presentation)*
+ * *README.md (This document)*
+ 
+ 
+**Download Instructions:**
+
+All you need to do to get started playing is click the green "code" button and select download .zip from the drop down menu.
 
 Once the file is downloaded, right click on the .zip file and select "extract all" from the available options.
 
