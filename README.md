@@ -4,8 +4,10 @@
 
 This project is a proof of concept educational tool to educate and encourage the non-techies amung us on cyber security concepts.
 
-**Above you will find 3 files:**
+**Inside the .zip file you will find:**
  * *CSEC Nexus (the application)*
+   * data.win (Game Maker Helper File)
+   * options.ini (Application Seettings File)
  * *CSEC Nexus.ppt (The Presentation)*
  * *README.md (This document)*
  
